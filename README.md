@@ -3,6 +3,7 @@
 
 ```css
 
-
+-webkit-background-clip: text ;
+    color: transparent;
 
 ```
