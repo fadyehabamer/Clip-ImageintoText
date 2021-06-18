@@ -3,7 +3,10 @@
 
 ```css
 
--webkit-background-clip: text ;
-color: transparent;
+h1 {
+    background: url('img src');
+    -webkit-background-clip: text ;
+    color: transparent;
+}
 
 ```
